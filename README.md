@@ -1,1 +1,1 @@
-# cell-automata-assignment
+# cell-automata
